@@ -47,7 +47,7 @@ In the hyper-competitive quick-commerce industry, optimization of inventory, out
 ---
 
 # Repository Contents
-* `/Data/` - Mock transactional/sales source datasets used for modeling.
-* `/Blinkit_Sales_Project.pbip` - **Power BI Project Folder** containing decoupled code, dataset metadata, and semantic layout models for technical inspection.
+* `BlinkitDashboard.png` - Live dashboard screen capture for immediate review.
+* `Blinkit_PowerBI_Project.zip` - Complete compressed Power BI Project folder containing `blinkit.report` visual layouts and `blinkit.dashboard` schemas for local exploration.
 * `README.md` - Core project documentation and portfolio summary.
 
