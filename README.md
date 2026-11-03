@@ -3,7 +3,7 @@
 A comprehensive Power BI data analytics project evaluating retail sales performance, customer satisfaction, and outlet distribution for **Blinkit (India's Last Minute App)**. Designed to unlock actionable business insights from transactional data.
 
 # Executive Summary Preview
-![Blinkit Dashboard Overview](image_SLNoOC.png)
+![Blinkit Dashboard Overview](BlinkitDashboard.png)
 
 
 # Business Problem & Project Objective
